@@ -1,0 +1,10 @@
+#Node_number X1_Coord X2_Coord
+0 0 0 #dummy
+1 0 2
+2 1 2
+3 0 1
+4 1 1
+5 2 1
+6 0 0
+7 1 0
+8 2 0

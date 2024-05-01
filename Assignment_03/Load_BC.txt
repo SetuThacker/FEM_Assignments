@@ -1,0 +1,4 @@
+#Node_number X1X2 X1_load X2_load
+0 0 0 0 #dummy
+5 12 0 -1000
+8 12 0 -1000
